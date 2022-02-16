@@ -380,7 +380,7 @@ def main():
     if len(sys.argv) == 1:
         # database_filepath, model_filepath = sys.argv[1:]
         database_filepath = 'data/MDRM-lite.db'
-        model_filepath = 'DS_model_SVC_noProbsInClass2.pkl'
+        model_filepath = 'DS_model_SVC.pkl'
         #model_filepath = 'Kaggle_SVCLITE05.pkl'
         print('Loading data...\n    DATABASE: {}'.format(database_filepath))
         
