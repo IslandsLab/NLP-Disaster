@@ -67,6 +67,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <a name="citation"></a>
 ## Citation
 
-For any use of this code, please cite our paper as:
+For any use of this code, please cite our papers as:
 
 <cite>Ponce-López, Víctor and Spataru, Catalina. Social Media Data Analysis Framework for Disaster Response. Research Square preprint, Under Review at Discover Artificial Intelligence, Springer Nature, 2022. [DOI: 10.21203/rs.3.rs-1370942/v1](https://doi.org/10.21203/rs.3.rs-1370942/v1) </cite>
+
+<cite>Ponce Lopez, Victor and Spataru, Catalina. Behaviour in social media for floods and heat waves in disaster response via Artificial Intelligence. ArXiv preprint, Under Review at PLoS ONE, 2022. [DOI: 10.48550/arXiv.2203.08753](https://arxiv.org/abs/2203.08753) </cite>
